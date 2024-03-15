@@ -33,3 +33,7 @@ The details of training method and hyperparameters.
 ------
 
 The loader, indicators and their calculation methodology.
+
+## Usage
+
+Run Train.py after preparing the dataset.
