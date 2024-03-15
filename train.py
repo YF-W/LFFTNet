@@ -37,10 +37,10 @@ IMAGE_HEIGHT = 224
 IMAGE_WIDTH = 224
 PIN_MEMORY = False
 LOAD_MODEL = False
-TRAIN_IMG_DIR = "data/data_cell/train_images"
-TRAIN_MASK_DIR = "data/data_cell/train_masks"
-VAL_IMG_DIR = "data/data_cell/val_images"
-VAL_MASK_DIR = "data/data_cell/val_masks"
+TRAIN_IMG_DIR = "Your_training_images"
+TRAIN_MASK_DIR = "Your_training_masks"
+VAL_IMG_DIR = "Your_validation_images"
+VAL_MASK_DIR = "Your_validation_masks"
 
 
 def train_fn(loader, model, optimizer, loss_fn, scaler, epoch):
