@@ -9,6 +9,7 @@ from torchvision import models as resnet_model
 "LFFT Net"
 "Author: Yuefei Wang"
 "Chengdu University, wangyuefei@cdu.edu.cn"
+"For research, study and communication only. Commercial use is prohibited."
 
 
 
