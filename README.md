@@ -1,4 +1,4 @@
-# LFFTNet
+# LFFT Net: A Layered Feature Fusion and Vision Transformer Combined "Dual Encoding-Mixed Decoding" Semantic Segmentation Model
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/YF-W/LFFTNet)![GitHub Repo forks](https://img.shields.io/github/forks/YF-W/LFFTNet)
 
