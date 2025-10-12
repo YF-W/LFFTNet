@@ -67,7 +67,7 @@ The detailed description of the experimental environment.
 
 Run Train.py after preparing the dataset.
 
-# Datasets:
+# 📊Datasets:
 1.	The LUNG dataset:https://www.kaggle.com/datasets/kmader/finding-lungs-in-ct-data
 2.	The 2018 Data Science Bowl dataset: https://www.kaggle.com/competitions/data-science-bowl-2018/data
 3.	The Skin Lesions dataset: https://www.kaggle.com/datasets/ojaswipandey/skin-lesion-dataset.
