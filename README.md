@@ -1,6 +1,7 @@
 # Layered Feature Fusion and Transformer Integration for Dual Encoding–Mixed Decoding in Semantic Segmentation
 
-# https://www.sciencedirect.com/science/article/abs/pii/S1746809426015077
+## publish address
+https://www.sciencedirect.com/science/article/abs/pii/S1746809426015077
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/YF-W/LFFTNet)![GitHub Repo forks](https://img.shields.io/github/forks/YF-W/LFFTNet)
 
